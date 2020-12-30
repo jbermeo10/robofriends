@@ -49,7 +49,7 @@ class App extends Component {
 
     //here use of ternary for if else sentence
     return !robots.length ?
-    <h1>Loading...</h1> :
+    <h1>Cargando...</h1> :
     (
       <div className='tc'>
         <h1 className='f1'>Amigos Robots</h1>
