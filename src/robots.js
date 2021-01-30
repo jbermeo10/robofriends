@@ -19,28 +19,26 @@ export const robots = [
   },
   {
     id: 4,
-    name: 'Mama Susy',
+    name: 'Mami Susy',
     username: 'mamar',
     email: 'azuc@gmail.com'
   },
   {
     id: 5,
-    name: 'Papa Jose',
+    name: 'Papi Jose',
     username: 'jber',
     email: 'live@gmail.com'
   },
   {
     id: 6,
-    name: 'Sally Quin',
+    name: 'Sally Quintana',
     username: 'sally',
     email: 'sally@gmail.com'
   },
   {
     id: 7,
-    name: 'Aaron Quin',
+    name: 'Aaron Quintana',
     username: 'aaron',
     email: 'aaron@gmail.com'
   }
-
-
 ]
